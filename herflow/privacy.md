@@ -3,10 +3,6 @@ layout: default
 title: Privacy Policy | HerFlow
 ---
 
-# HerFlow - privacy policy
-
-We value your privacy. This app is designed to be as private as possible.
-
 ### 1. Data collection & usage
 This app does not collect personal identifiers (like your name or email). However, we use [Sentry](https://docs.sentry.io/) to monitor app stability and fix bugs.
 
