@@ -21,7 +21,4 @@ If you are reporting a bug, it helps me immensely if you can include:
 3. A brief description of what happened.
 4. Any relevant screenshots or screen recordings.
 
-> **Privacy note:** As stated in our [Privacy Policy](./privacy-policy), we do not collect personal identifiers. Any information you share via email will only be used to resolve your specific inquiry.
-
----
-[Back to Privacy Policy](./)
+> **Privacy note:** As stated in our [Privacy Policy](./privacy), we do not collect personal identifiers. Any information you share via email will only be used to resolve your specific inquiry.
