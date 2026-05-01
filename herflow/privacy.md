@@ -1,9 +1,9 @@
 ---
 layout: default
-title: HerFlow privacy policy
+title: Privacy Policy | HerFlow
 ---
 
-# HerFlow: Period Tracker - privacy policy
+# HerFlow - privacy policy
 
 We value your privacy. This app is designed to be as private as possible.
 
