@@ -13,4 +13,4 @@ This app does not collect personal identifiers (like your name or email). Howeve
 Crash logs are stored temporarily by Sentry and are automatically deleted after a standard retention period (usually 30 days).
 
 ### 3. Contact us
-If you have questions about this policy, contact us at: raudonnikis@gmail.com
+If you have questions about this policy, contact us at: herflow@proton.me
