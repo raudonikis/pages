@@ -10,12 +10,12 @@ Whether you have a question about your data, a feature suggestion, or need techn
 ---
 
 ### Get in touch
-For the fastest response, please email me directly:
+For the fastest response, please email us directly:
 
-*   **Email:** [raudonnikis@gmail.com](mailto:raudonnikis@gmail.com)
+*   **Email:** [herflow@proton.me](mailto:herflow@proton.me)
 
 ### Support & feedback
-If you are reporting a bug, it helps me immensely if you can include:
+If you are reporting a bug, it helps us immensely if you can include:
 1. Your **Device model** (e.g., iPhone 13, Samsung S22).
 2. Your **OS Version** (e.g., iOS 17, Android 14).
 3. A brief description of what happened.
